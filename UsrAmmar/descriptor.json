@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "2b2f381a-1e9a-45cf-aba7-75c5eea63ce6",
+    "Name": "UsrAmmar",
+    "Type": 1,
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrAmmar.csproj",
+    "DependsOn": []
+  }
+}
