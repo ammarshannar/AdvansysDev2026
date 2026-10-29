@@ -10,11 +10,11 @@
         "projectUniqueName": "C:\\Academy\\Builds\\D3DEV\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtLocalizationDesigner\\Files\\CrtLocalizationDesigner.csproj",
         "projectName": "CrtLocalizationDesigner",
         "projectPath": "C:\\Academy\\Builds\\D3DEV\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtLocalizationDesigner\\Files\\CrtLocalizationDesigner.csproj",
-        "packagesPath": "C:\\Users\\Ammar Shannar\\.nuget\\packages\\",
+        "packagesPath": "C:\\WINDOWS\\TEMP\\dotnet\\.nuget\\packages\\",
         "outputPath": "C:\\Academy\\Builds\\D3DEV\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtLocalizationDesigner\\Files\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ammar Shannar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\WINDOWS\\TEMP\\dotnet\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -47,7 +47,7 @@
         "net472": {
           "framework": "net472",
           "targetAlias": "net472",
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
