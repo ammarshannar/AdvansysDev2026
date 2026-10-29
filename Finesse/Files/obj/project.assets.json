@@ -8,7 +8,7 @@
     "net472": []
   },
   "packageFolders": {
-    "C:\\WINDOWS\\TEMP\\dotnet\\.nuget\\packages\\": {}
+    "C:\\Users\\Ammar Shannar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "C:\\Academy\\Builds\\D3DEV\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\Finesse\\Files\\Finesse.csproj",
       "projectName": "Finesse",
       "projectPath": "C:\\Academy\\Builds\\D3DEV\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\Finesse\\Files\\Finesse.csproj",
-      "packagesPath": "C:\\WINDOWS\\TEMP\\dotnet\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Ammar Shannar\\.nuget\\packages\\",
       "outputPath": "C:\\Academy\\Builds\\D3DEV\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\Finesse\\Files\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\WINDOWS\\TEMP\\dotnet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ammar Shannar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,7 +53,7 @@
       "net472": {
         "framework": "net472",
         "targetAlias": "net472",
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

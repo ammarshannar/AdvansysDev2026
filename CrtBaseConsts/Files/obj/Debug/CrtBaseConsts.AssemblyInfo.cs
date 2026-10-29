@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrtBaseConsts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f8150ec91be07473013a6d334ce37c1e14d719e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrtBaseConsts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrtBaseConsts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
